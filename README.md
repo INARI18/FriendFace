@@ -3,7 +3,7 @@
     # FriendFace
     <br />
     <br />
-      <img src="https://drive.google.com/uc?export=view&id=1xc4ZVEdV4hHwuD9-XvkjS5Sl8n2caFwR" alt="FriendFace">
+      <img src="https://drive.google.com/uc?export=view&id=1xc4ZVEdV4hHwuD9-XvkjS5Sl8n2caFwR" alt="FriendFace" style="width: 50%;">
   </h1>
 </div>
 <p align="center"> 
